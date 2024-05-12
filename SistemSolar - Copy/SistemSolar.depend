@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1681329577 source:c:\facultate ubb\semestrul 6\grafica pe calculator\lab 3\sistemsolar\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1681333876 source:c:\facultate ubb\semestrul 6\grafica pe calculator\lab 3\sistemsolar\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	"stb/stb_image.h"
+
+1681329578 source:c:\users\stejeroiu aura\desktop\sistemsolar\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1681333878 source:c:\users\stejeroiu aura\desktop\sistemsolar\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	"stb/stb_image.h"
+
+1681329578 source:c:\users\stejeroiu aura\desktop\sistemsolar - copy\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1651142458 source:c:\users\stejeroiu aura\desktop\sistemsolar - copy\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"model.h"
+	"mesh.h"
+	"obiect.h"
+	"scena.h"
+	"stb/stb_image.h"
+
+1684835192 c:\users\stejeroiu aura\desktop\sistemsolar - copy\model.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<stb/stb_image.h>
+	<assimp/Importer.hpp>
+	<assimp/scena.h>
+	<assimp/postprocess.h>
+	"mesh.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+
+1649682260 c:\users\stejeroiu aura\desktop\sistemsolar - copy\mesh.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<string>
+	<vector>
+
+1651140230 c:\users\stejeroiu aura\desktop\sistemsolar - copy\obiect.h
+	"model.h"
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1651141082 c:\users\stejeroiu aura\desktop\sistemsolar - copy\scena.h
+	"obiect.h"
+	<iostream>
+
+1649682294 source:c:\users\stejeroiu aura\desktop\sistemsolar - copy\mesh.cpp
+	"mesh.h"
+

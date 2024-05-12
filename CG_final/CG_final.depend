@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1684964929 source:c:\users\stejeroiu aura\desktop\cg_final\glad.c
+	<glad/glad.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1649682294 source:c:\users\stejeroiu aura\desktop\cg_final\mesh.cpp
+	"mesh.h"
+
+1649682260 c:\users\stejeroiu aura\desktop\cg_final\mesh.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<string>
+	<vector>
+
+1650986098 source:c:\users\stejeroiu aura\desktop\cg_final\model.cpp
+	"model.h"
+
+1650986002 c:\users\stejeroiu aura\desktop\cg_final\model.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<stb/stb_image.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"mesh.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+
+1651140814 source:c:\users\stejeroiu aura\desktop\cg_final\obiect.cpp
+	"obiect.h"
+
+1651140230 c:\users\stejeroiu aura\desktop\cg_final\obiect.h
+	"model.h"
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1651141268 source:c:\users\stejeroiu aura\desktop\cg_final\scena.cpp
+	"scena.h"
+
+1651141082 c:\users\stejeroiu aura\desktop\cg_final\scena.h
+	"obiect.h"
+	<iostream>
+

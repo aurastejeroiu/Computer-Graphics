@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685001545 source:c:\users\stejeroiu aura\desktop\bedroom\bedroom\main.cpp
+	<GLFW/glfw3.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+

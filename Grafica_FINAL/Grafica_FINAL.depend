@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1646868044 source:c:\users\stejeroiu aura\downloads\scena_02\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1649682294 source:c:\users\stejeroiu aura\downloads\scena_02\mesh.cpp
+	"mesh.h"
+
+1649682260 c:\users\stejeroiu aura\downloads\scena_02\mesh.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<string>
+	<vector>
+
+1584209020 source:c:\users\stejeroiu aura\desktop\grafica_final\main.cpp
+	<iostream>
+

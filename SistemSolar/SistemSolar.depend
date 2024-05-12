@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1681329577 source:c:\facultate ubb\semestrul 6\grafica pe calculator\lab 3\sistemsolar\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1681333876 source:c:\facultate ubb\semestrul 6\grafica pe calculator\lab 3\sistemsolar\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	"stb/stb_image.h"
+
+1681329578 source:c:\users\stejeroiu aura\desktop\sistemsolar\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1681333878 source:c:\users\stejeroiu aura\desktop\sistemsolar\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	"stb/stb_image.h"
+
